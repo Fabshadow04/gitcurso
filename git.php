@@ -1,5 +1,5 @@
 <?php 
 
-echo"prueba de git";
+echo"prueba de git edit";
 
 ?>
